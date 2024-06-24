@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryooh" alt="bryooh" /></a> </p>
 
-- 🔭 I’m currently working on **2D snake game using unity**
+- 🔭 I’m currently working on **Social media platform with react and mongodb**
 
 - 🌱 I’m currently learning **Flutter, React Native, ASP.NET**
 
