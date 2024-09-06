@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryooh" alt="bryooh" /></a> </p>
 
-- 🔭 I’m currently working on **Social media platform with react and mongodb**
+- 🔭 I’m currently working on **Social media platform with react and mongodb** and an **online shop with react and mongodb**
 
 - 🌱 I’m currently learning **Flutter, React Native, ASP.NET**
 
 - 💬 Ask me about **Java Frameworks, C#, React**
 
-- 📫 How to reach me **bryoohmuchira@gmail.com**
+- 📫 How to reach me **brianmuchira001@gmail.com**
 
 - ⚡ Fun fact **I love making and playing video games**
 
