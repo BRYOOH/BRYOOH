@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
 </p>
-<h1 align="center">Hi 👋, I'm Brian Muriuki Mithamo</h1>
+<h1 align="center">Hi 👋, I'm Brian Muriuki Mithamo from Nairobi,Kenya</h1>
 <h3 align="center">Fullstack Developer | Game Developer | Java • C# • React • PostgreSql </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryooh&label=Profile%20views&color=0e75b6&style=flat" alt="bryooh" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Game+Developer;Java+%7C+C%23+%7C+React;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Frontend+Developer;Java+%7C+C%23+%7C+React;Always+learning+new+things" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryooh&theme=tokyonight&no-frame=true&row=1&column=6" /></a> </p>
 
-- 🔭 I’m currently working on **An ecormmerce website** with nextjs and postgresql 
+- 🔭 I’m currently working on **An e-commerce website** with nextjs and postgresql 
 
 - 🌱 I’m currently learning **FramerMotion, ASP.NET and Java**
 
@@ -25,6 +25,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brian-muriuki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brian-muriuki/" height="30" width="40" /></a>
+<a href="https://brianmuchira.vercel.app/" target="blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/domain.png" height="40" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
