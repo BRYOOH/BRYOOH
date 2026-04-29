@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+</p>
 <h1 align="center">Hi 👋, I'm Brian Muriuki Mithamo</h1>
-<h3 align="center">A passionate back-end and game developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Fullstack Developer | Game Developer | Java • C# • React • PostgreSql </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryooh&label=Profile%20views&color=0e75b6&style=flat" alt="bryooh" /> </p>
 
@@ -33,11 +34,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bryooh&show_icons=true&theme=tokyonight&hide_border=true" />
- <img src="https://streak-stats.demolab.com?user=bryooh&theme=tokyonight&hide_border=true&border_radius=10" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryooh&theme=tokyo-night&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryooh&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryooh&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryooh&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=bryooh&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 
