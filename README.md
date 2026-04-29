@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 <h1 align="center">Hi 👋, I'm Brian Muriuki Mithamo from Nairobi,Kenya</h1>
 <h3 align="center">Fullstack Developer | Game Developer | Java • C# • React • PostgreSql </h3>
