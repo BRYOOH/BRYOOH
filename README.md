@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 <h1 align="center">Hi 👋, I'm Brian Muriuki Mithamo from Nairobi,Kenya</h1>
 <h3 align="center">Fullstack Developer | Game Developer | Java • C# • React • PostgreSql </h3>
@@ -14,13 +14,9 @@
 
 - 🔭 I’m currently working on **An e-commerce website** with nextjs and postgresql 
 
-- 🌱 I’m currently learning **FramerMotion, ASP.NET and Java**
-
-- 💬 Ask me about **Java Frameworks,Ecommerce websites, Landing pages**
-
 - 📫 How to reach me **brianmuchira001@gmail.com**
 
-- ⚡ Fun fact **Ilove learning new things expanding my tech repertoire**
+- ⚡ Fun fact **I love learning new things expanding my tech repertoire**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +34,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryooh&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryooh&theme=tokyo-night&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryooh&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryooh&theme=tokyonight" />
