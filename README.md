@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
-<h1 align="center">Hi 👋, I'm Brian Muriuki Mithamo from Nairobi,Kenya</h1>
+<h1 align="center">Hi 👋, I'm Brian Muchira from Nairobi,Kenya</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryooh&label=Profile%20views&color=0e75b6&style=flat" alt="bryooh" /> </p>
 
