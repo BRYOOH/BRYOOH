@@ -2,12 +2,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 <h1 align="center">Hi 👋, I'm Brian Muriuki Mithamo from Nairobi,Kenya</h1>
-<h3 align="center">Fullstack Developer | Game Developer | Java • C# • React • PostgreSql </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryooh&label=Profile%20views&color=0e75b6&style=flat" alt="bryooh" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Frontend+Developer;Java+%7C+C%23+%7C+React;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Game+Developer;Backend+Developer;Frontend+Developer;Java+%7C+C%23+%7C+React+PostgreSql;Always+learning+new+tech" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryooh&theme=tokyonight&no-frame=true&row=1&column=6" /></a> </p>
